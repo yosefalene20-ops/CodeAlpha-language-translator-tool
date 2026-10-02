@@ -88,7 +88,7 @@ Open that address in your web browser to use the application.
 
 The application is also deployed using Streamlit Community Cloud.
 
-👉 Live Application: [Add your Streamlit URL here]
+👉 Live Application: https://yosef-translation-tool.streamlit.app/
 
 📌 How It Works
 
